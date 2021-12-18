@@ -1,0 +1,5 @@
+Credentials cache: API:78A71580-BA80-4983-87D8-9A0371914088
+        Principal: aharslan@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 24 11:17:56 2021  Nov 24 21:17:56 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
